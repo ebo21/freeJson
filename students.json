@@ -1,6 +1,6 @@
 [
    {
-      "userID":1,
+      "userId":1,
       "id":1,
       "username":"user1",
       "password":123456,
@@ -9,7 +9,7 @@
       "average":90.2
    },
    {
-      "userID":2,
+      "userId":2,
       "id":2,
       "username":"user2",
       "password":123456,

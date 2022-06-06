@@ -1,8 +1,21 @@
 [
-  {
-    "id": 1,
-    "name": "ibrahim",
-    "age": 21,
-    "grade": 3
-  }
+
+ {
+ "userId": 1,
+ "id": 1,
+ "username": "user1",
+ "password": 123456,
+ "registered": true,
+ "age": 21,
+ "average": 90.2,
+ },
+ {
+ "userId": 2,
+ "id": 2,
+ "username": "user2",
+ "password": 123456,
+ "registered": true,
+ "age": 22,
+ "average": 91.2,
+ },
 ]

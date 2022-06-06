@@ -9,7 +9,7 @@
       "average":90.2
    },
    {
-      "userId":2,
+      "userID":2,
       "id":2,
       "username":"user2",
       "password":123456,
